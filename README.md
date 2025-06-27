@@ -41,30 +41,30 @@ Tópicos
 ## 📸 Screenshots + Códigos
 
 ### 📍 [Exercício 1 – 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=divide-and-conquer)
-- 📄 [Ver código no GitHub]()  
+- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_1/347_topk.py)  
 - 🖼️ Screenshot:  
-<img src="" width="500"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_1/347.png" width="500"/>
 
 ---
 
 ### 📍 [Exercício 2 – 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=problem-list-v2&envId=divide-and-conquer)
-- 📄 [Ver código no GitHub]()  
+- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_2/215_kth_largest.py)  
 - 🖼️ Screenshot:  
-<img src="" width="500"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_2/215.png" width="500"/>
 
 ---
 
 ### 📍 [Exercício 3 – 218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)
-- 📄 [Ver código no GitHub]()  
+- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_3/218_skyline.py)  
 - 🖼️ Screenshot:  
-<img src="" width="500"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_3/218.png" width="500"/>
 
 ---
 
 ### 📍 [Exercício 4 – 4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer)
-- 📄 [Ver código no GitHub]()  
+- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_4/4_median_sorted_arrays.py)  
 - 🖼️ Screenshot:  
-<img src="" width="500"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_4/4.png" width="500"/>
 
 
 
