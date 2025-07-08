@@ -64,6 +64,10 @@ Tópicos
 <img src="https://github.com/projeto-de-algoritmos-2025/DC_ex_leetcode/blob/main/Exercicio_4/4.png" width="500"/>
 
 
+## Gravação
+<a href="https://youtu.be/dRp-AkmJfjo" target="_blank">
+  <img src="https://img.youtube.com/vi/dRp-AkmJfjo/0.jpg" alt="Assista ao vídeo no YouTube" width="640">
+</a>
 
 
 ## Instalação 
