@@ -1,8 +1,5 @@
 # DC_ex_leetcode
 
-
-# Grafos 1
-
 ## Disciplina
 
 Este trabalho foi desenvolvido para a disciplina **Projeto de Algoritmos**, ministrada pelo **Prof. Dr. Maurício**, no curso de **Engenharia de Software** da **Universidade de Brasília (UnB)**.
